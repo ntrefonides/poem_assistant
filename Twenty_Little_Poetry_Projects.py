@@ -51,7 +51,6 @@ image_that_makes_no_statement_but_echoes_an_image_from_earlier_in_the_poem = ["t
 
 setlist = [something_specific_but_utterly_preposterous,
 	one_image_for_each_of_the_five_senses, 
-	one_image_for_each_of_the_five_senses, 
 	synaesthesia, 
 	the_proper_name_of_a_person_and_the_proper_name_of_a_place, 
 	contradict_something_from_the_first_five_projects_of_original_prompt, 
