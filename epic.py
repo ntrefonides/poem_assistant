@@ -45,21 +45,24 @@ I = ["I've died I'll die again", "these eggs their hatching hens", "who what whe
 #DD = ["Incorruptibly that no","Silver has to gape or go,","Deviate to underglow,","Throws to columns row on row","Then to marches. Then to know"]
 #EE = ["Doomer, though, cresendo-comes","Prophesying hecatombs."]
 #FF = ["Surrealist and cynical.","Garrulous and gutteral.",""]
-#GG = ["Names him. Tames him. Takes him off","Where he makes the rifles cough," ]
+#GG = ["Names him. Tames him. Takes him off","Where he makes the rifles cough,","With his helmet's final doff","Soldier lifts his power off."]
 #HHII = ["Vaunting hands are now devoid","Paralyzed and paranoid"
 #JJ = ["But idea and body too", "Clamor Skirmishes can do.", "Then he will come back to you."]
 #KK = ["Less than ruggedly he kindles","Hies he home, the bumps and brindles"]
 #LL = ["Pallors into broken fire.","Of his rummage of desire","Tosses to her lap entire."]
 #MM = ["Hearing still such eerie stutter.","Caring not if candles gutter."]
-#NN = [""]
-#
-#
-#
-#
-#
-#
-#
-#
+#NN = ["Tan man twitches: for for long", "Little as an inch of song," ]
+#OO = ["Life was little as a sand,", "Little as the aching hand","Little as a drop from grand"]
+#PP = ["That would fashion mountains, such", "When a heart decides "Too much!--",  ]
+#QQ = ["Yet there was a drama, drought","Retch and wheeling and cold shout,"
+#RR = ["Scarleted about the brim","Not with blood alone for him,",]
+#SS = ["Flood, with blossom in between","Suffocation, with a green","Moist sweet breath for mezzanine."]
+#TT = ["Hometown hums with stoppages.","And this white and greater chess"]
+#UU = ["Now the doughty meanings die","That observe the funny fly","Till the stickum stops the cry."]
+#VV = ["As costumery from streets.","Baffles tan man. Gone the heats"]
+#WW = ["Soldier bare and chilly then","Wants his power back again","Before quick-feast quick famish Men"
+#XX = ["No confection languider","Than the candy crowns that were"]
+#YY = ["Hunts a further fervor now.","Shudders for his impotence."]
 #
 #
 #
