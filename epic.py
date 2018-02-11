@@ -36,7 +36,7 @@ I = ["I've died I'll die again", "these eggs their hatching hens", "who what whe
 #U = ["Unfamiliar, to be sure,","With celestial furniture","Trying if the pomp be pure"
 #V = ["His bejewelled diadem;","As for jewels, counting them,"
 #W = ["In the beam his track diffuses","Like a nun of crimson ruses","For the path his pocket chooses;"," " ]
-#X = ["Down her dusted demi-gloom","Leads her to a lowly room."]
+#X = ["Down her dusted demi-gloom","Leads her to a lowly room.","Not that woman! (Not that room!","Not that dusted demi-gloom!)]
 #Y = ["Which she makes a chapel of","Where she genuflects to love","Or the dolour of a dove"]
 #Z = ["All the prayerbooks in her eyes","Open soft and sacrifice","Hieroglyphics of her eyes","Blink upon a paradise"]
 #AA = ["Tender candles ray by ray","Warm and gratify the gray"]
@@ -58,15 +58,32 @@ I = ["I've died I'll die again", "these eggs their hatching hens", "who what whe
 #RR = ["Scarleted about the brim","Not with blood alone for him,",]
 #SS = ["Flood, with blossom in between","Suffocation, with a green","Moist sweet breath for mezzanine."]
 #TT = ["Hometown hums with stoppages.","And this white and greater chess"]
-#UU = ["Now the doughty meanings die","That observe the funny fly","Till the stickum stops the cry."]
+#UU = ["Now the doughty meanings die","That observe the funny fly","Till the stickum stops the cry.","Chases stilts and straps to vie","With reession of the sky."]
 #VV = ["As costumery from streets.","Baffles tan man. Gone the heats"]
 #WW = ["Soldier bare and chilly then","Wants his power back again","Before quick-feast quick famish Men"
 #XX = ["No confection languider","Than the candy crowns that were"]
-#YY = ["Hunts a further fervor now.","Shudders for his impotence."]
+#YY = ["Hunts a further fervor now."Stiffens: yellows: wonders how"]
+#ZZ = ["Chases root and vehemence,"Shudders for his impotence""Woman fits for recompense"]
+#a = ["Nothing limpid, nothing meek.","But a gorgeous and gold shriek","With her tongue tucked in her cheek,"]
+#b = ["Hissing gauzes in her gaze,","Coiling oil upon her ways"]
+#c = ["Gets a maple banshee. Gets","Oh those violent vinaigrettes!"
+#d = ["A sleek slit-eyed moan.","Oh bad honey that can hone","Oilily the bluntest stone!"
+#e = ["Oh mad bacchanalian lass","That his random passion has!"]
 #
 #
 #
 #
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,5 +111,4 @@ for n in range (number_of_stanzas):
 
 
 print(
-"Running through the rain \n and sandy path forest \n to gooseberry point \n Gus the Boston Terrier \n was alive again alongside me \n at 4am this morning his heart burst \n in my mother's lap\n his grey-blue eyes closed \n like collapsing sky"
-      
+"Running through the rain \n and sandy path forest \n to gooseberry point \n Gus the Boston Terrier \n was alive again alongside me \n at 4am this morning his heart burst \n in my mother's lap\n his grey-blue eyes closed \n like collapsing sky") 
