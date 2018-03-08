@@ -17,11 +17,11 @@ import random
  # print (random.choice(listx), end=''); print (random.choice(listy), end=''); print (random.choice(listx), end=''); print (random.choice(listy), end='');
 
 
+sheepsleep = ["BODY", "OCEAN"]
 
-sheepsleep = ["sheep","sleep","SHEEP","SLEEP"]
 
-for x in range(0,100):
-  i = random.randint(1,100)
+for x in range(0,200):
+  i = random.randint(1,20)
   print (random.choice(sheepsleep), end = "")
   for x in range(0,i):
      print (random.randint(1,101), end=""); 
